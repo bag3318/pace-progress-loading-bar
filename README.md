@@ -2,8 +2,8 @@
 
 ## How to use with Angular 2
 
-1. run `npm i -O pace-progress-loading-bar` in root project directory
-2. open `angular.json` file
+1. Run `npm i -O pace-progress-loading-bar` in root project directory
+2. Open `angular.json` file
 3. Map to `projects > {{Angular Project Name}} > architect > build > options > styles`
 4. Add `"node_modules/pace-progress-loading-bar/dist/css/pace.min.css"` to the styles array
 5. Map to `projects > {{Angular Project Name}} > architect > build > options > scripts`
