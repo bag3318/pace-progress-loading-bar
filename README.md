@@ -10,5 +10,5 @@
 6. Add `"node_modules/pace-progress-loading-bar/dist/js/pace.min.js"` to the scripts array
 7. Run app
 
-Credit goes to [**Pace**](https://github.hubspot.com/pace/docs/welcome/).
+> **All credit goes to [Pace](https://github.hubspot.com/pace/docs/welcome/).**
 

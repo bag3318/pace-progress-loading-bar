@@ -1,6 +1,6 @@
 {
   "name": "pace-progress-loading-bar",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A simple loading bar using Pace (https://github.hubspot.com/pace/docs/welcome/).",
   "main": "index.js",
   "scripts": {
