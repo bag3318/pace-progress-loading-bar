@@ -1,0 +1,11 @@
+# if gitignore is not working, try this:
+#
+# git rm -r --cached .
+# git add .
+# git commit -m "fixed untracked files"
+# git push
+
+# System File(s)/Folder(s)
+.DS_Store
+Thumbs.db
+_MACOSX
