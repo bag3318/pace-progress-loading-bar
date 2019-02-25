@@ -1,12 +1,23 @@
 {
-  "name": "pace-progress-bar",
-  "version": "1.0.0",
-  "description": "",
+  "name": "pace-progress-loading-bar",
+  "version": "1.0.3",
+  "description": "A simple loading bar using Pace (https://github.hubspot.com/pace/docs/welcome/).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "shuckle33188",
   "license": "ISC",
-  "private": true
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bag3318/pace-progress-bar"
+  },
+  "keywords": [
+    "pace",
+    "progress bar",
+    "loading bar"
+  ],
+  "bugs": {
+    "url": "https://github.com/bag3318/pace-progress-bar/issues"
+  }
 }
