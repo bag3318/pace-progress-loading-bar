@@ -2,6 +2,8 @@
 
 # Pace Progress/Loading Bar
 
+Loading bar color: #00d034;
+
 ## How to use with Angular 2
 
 1. Run `npm i -O pace-progress-loading-bar` in root project directory
