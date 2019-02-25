@@ -2,7 +2,7 @@
 
 # Pace Progress/Loading Bar
 
-Loading bar color: **#00d034**.
+Loading/Progress bar color: **#00d034**.
 
 ## How to use with Angular 2
 
