@@ -1,4 +1,5 @@
 "use strict";
+
 let logNodePackageName = (nodePackageName) => {
     console.log(nodePackageName);
 }
