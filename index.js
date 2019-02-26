@@ -1,2 +1,6 @@
 "use strict";
-console.log('Pace Loading/Progress Bar');
+let logNodePackageName = (nodePackageName) => {
+    console.log(nodePackageName);
+}
+const nodePackageName = 'Pace Loading/Progress Bar';
+nodePackageName(nodePackageName);
